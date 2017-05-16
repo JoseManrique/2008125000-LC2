@@ -1,0 +1,6 @@
+c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-CON\bin\Debug\2008125000-CON.exe.config
+c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-CON\bin\Debug\2008125000-CON.exe
+c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-CON\bin\Debug\2008125000-CON.pdb
+c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-CON\obj\Debug\2008125000-CON.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-CON\obj\Debug\2008125000-CON.exe
+c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-CON\obj\Debug\2008125000-CON.pdb
