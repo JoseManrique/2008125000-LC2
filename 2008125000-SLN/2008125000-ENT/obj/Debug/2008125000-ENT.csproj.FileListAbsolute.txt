@@ -1,4 +1,0 @@
-c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-ENT\bin\Debug\2008125000-ENT.dll
-c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-ENT\bin\Debug\2008125000-ENT.pdb
-c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-ENT\obj\Debug\2008125000-ENT.dll
-c:\users\jose\documents\visual studio 2017\Projects\2008125000-SLN\2008125000-ENT\obj\Debug\2008125000-ENT.pdb
